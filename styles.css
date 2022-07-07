@@ -1,0 +1,154 @@
+@charset "UTF-8";
+/* Name: Reese Cox
+    Date:7/4/2022
+    Assignment: Responsive travel*/
+
+body{
+  font-family: futura;
+  background-color: #87dfe9;
+}
+.page{
+  width: 90%;
+  margin: auto;
+  padding: 5px;
+}
+/*
+nav>ul{
+  width: 100%;
+  background-color: #105161;
+  overflow:auto;
+  list-style: none;
+  text-align: center;
+}
+nav a{
+  width:100px;
+  display: block;
+  padding: 20px 20px;
+  text-decoration: none;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 15px;
+  color: white;
+  text-align: center;
+}
+li{
+  float: left;
+  padding-left:35px;
+  padding-right: 35px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  color: white;
+}
+
+img{
+  display: none;
+}
+
+@media screen and (min-width:480px) {
+  img{
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .downtown{
+    border-radius: 20px;
+  }
+}
+
+@media screen and (min-width:1008px) {
+  .downtown{
+    width: 100%;
+  }
+
+  .info{
+    width: 25%;
+    float: right;
+  }
+
+  img{
+    width: 100%;
+    height: auto;
+    margin: 0 0 10px 0;
+  }
+
+  .col1, .col2, .col3,.col4 {
+
+    float:left;
+    width:45%;
+    margin:2%;
+  }
+
+  .square{
+    width:70%;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .col1, .col2, .col3,.col4 {
+    float:left;
+    width:23.25%;
+    margin:10px;
+  }
+}
+
+
+/*
+.downtown{
+  width: 70%;
+  border-radius: 20px;
+
+}
+.info{
+  width: 25%;
+  float: right;
+}
+
+.title{
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  margin: 0 0 10px 0;
+}
+.col1, .col2, .col3,.col4 {
+
+  float:left;
+  width:20%;
+  margin:2%;
+}
+
+nav>ul{
+  width: 100%;
+  background-color: #105161;
+  overflow:auto;
+  list-style: none;
+  text-align: center;
+}
+nav a{
+  width:100px;
+  display: block;
+  padding: 20px 15px;
+  text-decoration: none;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 15px;
+  color: white;
+  text-align: center;
+}
+li{
+  float: left;
+  padding-left:50px;
+  padding-right: 50px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  color: white;
+}
+
+.page{
+  width: 90%;
+  margin: auto;
+}
+*/
